@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "random": "cpp",
+        "algorithm": "cpp",
+        "new": "cpp"
     }
 }
