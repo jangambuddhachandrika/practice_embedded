@@ -7,7 +7,6 @@ RETURNS: Void (no value).
 ALGORITHM: A switch statement selects the appropriate word.
  If "n" is not in the range 1,2,3,...,9, then an
  error phrase is printed.
-AUTHOR: W. Knight
 *******************************************************************/
 
 #include<bits/stdc++.h>
