@@ -9,7 +9,6 @@ PARAMETERS:
 RETURNS: 1 if the arguments are both positive, 0 otherwise.
 ALGORITHM: If both arguments are positive, then each of them is
  divided by their greatest common divisor.
-AUTHOR: W. Knight
 *******************************************************************/
 #include<bits/stdc++.h>
 using namespace std;
