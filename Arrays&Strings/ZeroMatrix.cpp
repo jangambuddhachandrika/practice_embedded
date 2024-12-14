@@ -17,14 +17,14 @@ void setZeroes(vector<vector<int>>&matrix)
 	{
 		if(matrix[i][0]==0)
 		{
-			firstRow = true;
+			firstColumn = true;
 		}
 	}
 	for(int j = 0;j<n;j++)
 	{
 		if(matrix[0][j]==0)
 		{
-			firstColumn = true;
+			firstRow = true;
 		}
 	}
 
